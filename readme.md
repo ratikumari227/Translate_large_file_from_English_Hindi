@@ -1,2 +1,3 @@
 pip install -r requirements.txt
-python3 translation.py
+
+python3 translate.py
